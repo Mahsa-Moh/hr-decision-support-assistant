@@ -1,5 +1,4 @@
 .env
 audit_log.jsonl
-*.xlsx
 .ipynb_checkpoints/
 __pycache__/
